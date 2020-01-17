@@ -6,7 +6,7 @@ acme-web-design-1
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Affordable and professional web design,professional web design">\
     <meta name="keywords" content="web design,affordable web design,proje">
-    <meta name="author" content="Reyhan ">
+    <meta name="author" content="Reyhan yildiz">
 
     <title>Acme Web Design|Welcome</title>
     <link rel="stylesheet" href="./css/style.css">
